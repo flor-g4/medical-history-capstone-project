@@ -169,7 +169,7 @@ El sitio es HTTP (sin CloudFront en el lab). Si Chrome tiene activo "Usar siempr
 4. En la carpeta, marcar archivos limpios → *Compartir* (duración y permiso) → copiar la URL y abrirla en una ventana privada → Ver o Descargar.
 5. *Compartidos* → apagar el switch → la ventana privada muestra "Enlace no disponible" al recargar.
 
-Los usuarios viven en Cognito: se pierden al borrar los stacks.
+**Los usuarios viven en Cognito: se pierden al borrar los stacks.**
 
 ### 4.6 Desarrollo local y pruebas
 
