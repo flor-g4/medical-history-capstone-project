@@ -110,7 +110,9 @@ Stacks de la PoC (en orden de despliegue): `mh-base` (KMS, buckets de documentos
 
 ## 4. Instalación de la PoC paso a paso
 
-Todo se hace desde **PowerShell** en Windows; los dos scripts `.sh` corren con el Bash de Git for Windows. En CloudShell o Linux los mismos pasos funcionan con `bash infra/...` y `export` en lugar de `$env:`.
+- Todo se hace desde **PowerShell** en Windows.
+- **Los dos scripts `.sh` corren con el Bash de Git for Windows.**
+- En CloudShell o Linux los mismos pasos funcionan con `bash infra/...` y `export` en lugar de `$env:`.
 
 ### 4.1 Herramientas
 
