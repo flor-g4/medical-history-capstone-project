@@ -44,7 +44,7 @@ type Campo = 'nombre' | 'cedula' | 'fechaNacimiento' | 'genero';
             }
           </div>
           <div class="campo">
-            <label for="cedula">Cédula</label>
+            <label for="cedula">DNI/NIE/Pasaporte</label>
             <input id="cedula" formControlName="cedula" inputmode="numeric"
               [attr.aria-invalid]="mostrarError('cedula')" aria-describedby="cedula-error" />
             @if (mostrarError('cedula')) {
